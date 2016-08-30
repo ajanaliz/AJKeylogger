@@ -7,7 +7,7 @@ class Keys
     public:
         Keys();
         virtual ~Keys();
-
+        static std::map<int, KeyPair> KEYS;
     protected:
 
     private:
