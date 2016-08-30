@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472483374 source:c:\users\ali j\documents\ajkeylogger\main.cpp
+	<iostream>
+	<windows.h>
+
