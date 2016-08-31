@@ -1,5 +1,47 @@
 # depslib dependency file v1.0
-1472483374 source:c:\users\ali j\documents\ajkeylogger\main.cpp
+1472605398 source:c:\users\ali j\documents\ajkeylogger\main.cpp
 	<iostream>
 	<windows.h>
+	"KeybHook.h"
+
+1472605047 c:\users\ali j\documents\ajkeylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1472605483 c:\users\ali j\documents\ajkeylogger\keyconstants.h
+	<map>
+	<string>
+
+1472590784 c:\users\ali j\documents\ajkeylogger\timer.h
+	<thread>
+	<chrono>
+
+1472603063 c:\users\ali j\documents\ajkeylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1472533419 c:\users\ali j\documents\ajkeylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1472525078 c:\users\ali j\documents\ajkeylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+
+1472533106 c:\users\ali j\documents\ajkeylogger\base64.h
+	<vector>
+	<string>
 

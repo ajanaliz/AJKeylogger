@@ -1,6 +1,3 @@
-//
-// Created by Enil on 10.01.2016..
-//
 #ifndef KEYCONSTANTS_H
 #define KEYCONSTANTS_H
 #include <map>
@@ -229,3 +226,4 @@ map<int, KeyPair> Keys::KEYS = {
     {0x06, {"[VK_XBUTTON2]", "[X Button 2 **]"}},
 };
 #endif //KEYCONSTANTS_H
+
